@@ -17,7 +17,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '走我们走进AI',
+  HEO_HERO_TITLE_1: '让我们走进AI',
   // HEO_HERO_TITLE_2: '让AI走进每个人的生活',
   HEO_HERO_TITLE_3: 'simpleway.xyz',
   // HEO_HERO_TITLE_4: '了解我们',
